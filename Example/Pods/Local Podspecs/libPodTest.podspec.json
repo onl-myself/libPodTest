@@ -1,0 +1,22 @@
+{
+  "name": "libPodTest",
+  "version": "0.1.0",
+  "summary": "A short description of libPodTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/aTreey/libPodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "aTreey": "480814177@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/aTreey/libPodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "libPodTest/Classes/**/*"
+}

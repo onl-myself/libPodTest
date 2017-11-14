@@ -7,6 +7,7 @@
 //
 
 #import "PPViewController.h"
+//#import "NSString+PPExtension.h"
 
 @interface PPViewController ()
 
@@ -18,6 +19,11 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    NSString *test = @"   rrrrrrr";
+    
+//    NSString *result = test.stringByTrim;
+//    NSLog(@"reult = %@", result);
 }
 
 - (void)didReceiveMemoryWarning
